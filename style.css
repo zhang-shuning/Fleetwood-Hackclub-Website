@@ -3,12 +3,28 @@ body {
   background-color: black;
 }
 
+#title {
+  display: flex;
+  gap: 20px;
+  font-size: larger;
+  margin: auto;
+  width: 600px;
+  height: 100px;
+}
+
 #links {
-  border: 2px solid white; 
   width: 200px;
   margin-left: auto;
 }
 
 #links a {
   color:red;
+}
+
+p {
+  color:white;
+}
+
+h1 {
+  color: white;
 }
