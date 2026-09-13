@@ -1,0 +1,14 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+}
+
+#links {
+  border: 2px solid white; 
+  width: 200px;
+  margin-left: auto;
+}
+
+#links a {
+  color:red;
+}
